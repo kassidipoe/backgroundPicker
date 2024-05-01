@@ -16,30 +16,30 @@ function purpleParty() {
 
 function greenParty() {
 	document.querySelector('body').style.backgroundColor = '#0f0'
-	document.querySelector('body').style.color = 'black'
+	document.querySelector('h1').style.color = 'black'
 }
 
 function cyanParty() {
 	document.querySelector('body').style.backgroundColor = 'cyan'
-	document.querySelector('body').style.color = 'black' 
+	document.querySelector('h1').style.color = 'black' 
 }
 function redParty() {
 	document.querySelector('body').style.backgroundColor = 'red'
-	document.querySelector('body').style.color = 'black'
+	document.querySelector('h1').style.color = 'black'
 }
 function yellowParty() {
 	document.querySelector('body').style.backgroundColor = 'yellow'
-	document.querySelector('body').style.color = 'black'
+	document.querySelector('h1').style.color = 'black'
 }
 function blueParty() {
 	document.querySelector('body').style.backgroundColor = 'blue'
-	document.querySelector('body').style.color = 'black'
+	document.querySelector('h1').style.color = 'black'
 }
 function whiteParty() {
 	document.querySelector('body').style.backgroundColor = 'white'
-	document.querySelector('body').style.color = 'black'
+	document.querySelector('h1').style.color = 'black'
 }
 function blackParty() {
 	document.querySelector('body').style.backgroundColor = 'black'
-	document.querySelector('body').style.color = 'white'
+	document.querySelector('h1').style.color = 'white'
 }
